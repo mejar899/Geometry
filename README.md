@@ -210,3 +210,6 @@ Geometry is offered as a complete free version, providing all features and updat
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-17 00:13:46 UTC
