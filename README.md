@@ -212,4 +212,4 @@ Geometry is offered as a complete free version, providing all features and updat
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-01 01:59:27 UTC
+**Last updated:** 2026-10-01 08:45:47 UTC
